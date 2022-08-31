@@ -11,3 +11,4 @@
     3. Zaproponowanie zmiany reguły niezmiennej w regułę zmienną lub vice versa.
 9. Po każdym ruchu następuje głosowanie nad propozycją. Wszystkie propozycje zmian reguł muszą zostać zaakceptowane jednogłośnie przez wszystkich graczy.
 10. Każda zaakceptowana reguła musi dostać unikatową liczbę naturalną jako jej identyfikator.
+11. Jeśli gracz nie wykona ruchu w ciągu 7 dni od ostatniego głosowania, zostaje usunięty z listy graczy.
